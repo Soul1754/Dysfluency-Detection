@@ -1,0 +1,10 @@
+audio,metadata,transcription,sentence,class,typology
+"{'array': array([array([2.27373675e-13]), array([-1.26476607e-12]),
+       array([-2.33058017e-12]), ..., array([2.07592166e-10]),
+       array([2.28396857e-10]), array([1.44723344e-10])],
+      shape=(307488,), dtype=object), 'num_frames': array([615]), 'sampling_rate': 48000.0}","{'end_time': 3.7, 'new_end_time': 3.95, 'selected_word': {'duration': 0.30000000000000027, 'end': 3.7, 'id': 6.0, 'length': 4.0, 'start': 3.4, 'word': ' {block}the'}, 'start_time': 3.4, 'stutter_type': 'block'}", The  petals  are  about  long  and  {block}the  stem  length  long.,The petals are about long and the stamens long.,block,tonic
+"{'array': None, 'num_frames': array([705]), 'sampling_rate': None}",,,She questions Chase but he states he is innocent.,,
+"{'array': array([array([-2.13162821e-14]), array([-1.31450406e-13]),
+       array([-7.67386155e-13]), ..., array([5.06545916e-11]),
+       array([3.14059889e-11]), array([1.38129508e-11])],
+      shape=(524756,), dtype=object), 'num_frames': array([1011]), 'sampling_rate': 48000.0}","{'end_time': 6.64, 'new_end_time': 7.5064166666666665, 'selected_word': {'duration': 0.7799999999999994, 'end': 6.64, 'id': 8.0, 'length': 7.0, 'start': 5.86, 'word': '{syllab_rep}  U- U- U- U- Ulster'}, 'start_time': 5.86, 'stutter_type': 'syllab_rep'}", Jones  studied  sports  coaching  at  the  University  of {syllab_rep}  U- U- U- U- Ulster  in  Jordanstown.,Jones is studying sports coaching at the University of Ulster in Jordanstown.,syllab_rep,clonic
