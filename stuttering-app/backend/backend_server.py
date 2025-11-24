@@ -15,7 +15,7 @@ from inference_engine import StutterPredictor
 from transcription_engine import SpeechCorrector
 
 # --- CONFIGURATION ---
-MODEL_PATH = r"E:\College\Final Y\Sem I\EDAI\stuttering\models\stutter_model_epoch_10.pth" 
+MODEL_PATH = r"../../models/stutter_model_epoch_10.pth" 
 UPLOAD_DIR = "temp_uploads"
 
 app = FastAPI(title="FluencyFlow Backend")
